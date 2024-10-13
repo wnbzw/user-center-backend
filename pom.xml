@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>user-center-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>user-center</name>
-    <description>user-center</description>
+    <name>user-center-backend</name>
+    <description>user-center-backend</description>
     <url/>
     <licenses>
         <license/>
