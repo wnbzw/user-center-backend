@@ -1,25 +1,25 @@
 spring:
   data:
     redis:
-      host: 120.26.52.171
+      host: xxx
       port: 6379
       database: 0
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://120.26.52.171:3306/user_center?useUnicode=true&allowPublicKeyRetrieval=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
-    username: root
-    password: Wzwcx1029!
+    url: jdbc:mysql://xxx
+    username: xxx
+    password: xxx
   #  datasource:
   #    driver-class-name: com.mysql.cj.jdbc.Driver
   #    url: jdbc:mysql://localhost:3306/user_center?useUnicode=true&allowPublicKeyRetrieval=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
-  #    username: root
-  #    password: 123456
+  #    username:xxx
+  #    password: xxx
 server:
   address: 0.0.0.0
   servlet:
     session:
       cookie:
-        domain: globalusercenter.fun
+        domain:xxx
 
 
 
